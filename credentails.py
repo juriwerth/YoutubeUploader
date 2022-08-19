@@ -1,0 +1,7 @@
+browser = "firefox"
+link = "https://accounts.google.com/signin/v2/identifier?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Dde%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F&hl=de&ec=65620&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+mail = "alibabaaaaaaaaaaaa76@gmail.com"
+password = "Teekane89"
+path = "C:/Users/juriw/OneDrive/Desktop/42/coding/projects/py/youtube/videos/"
+video = "LINK IN DISCRIPTION.mp4"
+description = "https://icleanoffical.myshopify.com/ #shorts"
